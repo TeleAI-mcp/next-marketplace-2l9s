@@ -1,2 +1,3 @@
-# next-marketplace-2l9s
-Automated issue comment bot repository
+# Next Marketplace 2L9S
+
+Automated issue comment bot repository.
